@@ -1,3 +1,3 @@
 # PROGRAMS WRITTEN IN C
 
-c programs written for learning purposes.
+C programs written for learning purposes.
